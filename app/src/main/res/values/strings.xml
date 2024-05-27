@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="quiz_app">QUIZ APP</string>
+    <string name="headingtext">WELCOME</string>
+    <string name="getname">Please enter your name!</string>
+    <string name="name">Name</string>
+    <string name="submit">Submit</string>
+    <string name="question">What country does this flag belong to?</string>
+    <string name="image_flag">Image Flag</string>
+    <string name="_0_11">0/11</string>
+    <string name="check">Check</string>
+    <string name="congratulations">Hey, Congratulations!</string>
+    <string name="result">RESULT</string>
+    <string name="username">username</string>
+    <string name="result_score">Your Score is 9 out of 11</string>
+    <string name="play_again">Play Again</string>
+    <string name="finish">Finish</string>
+
+</resources>
